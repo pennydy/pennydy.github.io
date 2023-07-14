@@ -119,9 +119,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pennydy"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fad fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=ygCCXrsAAAAJ"
 
 # Site Footer
 footer:
