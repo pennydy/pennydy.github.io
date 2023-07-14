@@ -5,4 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Talks
+# Research Interests
+# Peer-reviewed Papers
+# Conference Presentations

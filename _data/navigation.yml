@@ -4,7 +4,7 @@ main:
      url: /about/
   - title: "Research"
     url: /research/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "CV"
+    url: /cv/
   # - title: "Sitemap"
   #   url: /sitemap/
