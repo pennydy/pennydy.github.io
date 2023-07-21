@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: /home/
+redirect_from: /about/
 ---
 
 Hi! I am Dingyi Pan, but I usually go by Penny. 
