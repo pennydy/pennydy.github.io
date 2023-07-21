@@ -1,10 +1,8 @@
 ---
-permalink: 
-    - /
-    - /about/
+permalink: /
 title: ""
 author_profile: true
-redirect_from: /about/
+redirect_from: /home/
 ---
 
 Hi! I am Dingyi Pan, but I usually go by Penny. 
