@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Research Interests
+Pragmatics, Psycholinguistics, Cognitive Science 
 
 # Peer-reviewed Papers
 - Pan, D., and Degen, J. (2023). Towards a computational account of projection inferences in polar interrogatives with clause-embedding predicates *In Proceedings of the 45th Annual Conference of the Cognitive Science Society.* [\[pdf\]](https://escholarship.org/uc/item/13h8r0pv)
