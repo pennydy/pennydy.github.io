@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: /about/
 ---
 
-Hi! I am Penny and publish under my Chinese name, Dingyi Pan.
+Hi! I am Penny, and I publish under my Chinese name, Dingyi Pan.
 
 I am a first year Ph.D. student in linguistics at UC San Diego, advised by [Andy Kehler](https://pages.ucsd.edu/~kehler/). My research focuses on psycholinguistcs and pragmatics. I use both computational modeling and behavioral experiments to probe how people comprehend and produce sentences as well as how they make inferences in a given context.
 

@@ -8,7 +8,7 @@ author_profile: true
 # Research Interests
 Pragmatics, Psycholinguistics, Cognitive Science 
 
-# Peer-reviewed Papers
+# Peer-reviewed Paper
 - Pan, D., and Degen, J. (2023). Towards a computational account of projection inferences in polar interrogatives with clause-embedding predicates. *In Proceedings of the 45th Annual Conference of the Cognitive Science Society.* [\[pdf\]](https://escholarship.org/uc/item/13h8r0pv)
 
 # Unpublished Manuscripts
@@ -19,7 +19,9 @@ Pragmatics, Psycholinguistics, Cognitive Science
 - Projection inferences with clause-embedding predicates in RSA models. M.S. Thesis, Stanford University. Advised by Prof. Judith Degen. Second reader: Prof. Chris Potts. 
 
 # Conference Presentations
-- Pan, D., & Degen, J. (2023). Towards a computational account of projection inferences in clause-embedding predicates. Talk to be presented at the 45th Annual Conference of the Cognitive Science Society. Sydney, Australia.
+- Pan, D.,  & Degen, J. (2024). A computational model for projection inferences in clause-embedding predicates. Poster presented at CAMP 2024. Stanford, CA.
+
+- Pan, D., & Degen, J. (2023). Towards a computational account of projection inferences in clause-embedding predicates. Talk presented at the 45th Annual Conference of the Cognitive Science Society. Sydney, Australia.
 
 - Pan, D., Lu, J., & Degen, J. (2023). Can Manner-of-Speaking Islands be Rescued Through Discourse Foregrounding? Short talk presented at CAMP 2023. Los Angeles, CA.
 
