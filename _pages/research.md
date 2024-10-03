@@ -21,6 +21,8 @@ Pragmatics, Psycholinguistics, Cognitive Science
 # Conference Presentations
 - Pan, D.,  & Degen, J. (2024). A computational model for projection inferences in clause-embedding predicates. Poster presented at CAMP 2024. Stanford, CA.
 
+- Lu, J., Pan, D., and Degen, J. (2024). Evidence for a discourse account of Manner-of-Speaking islands. Talk presented at LSA 2024. New York, NY.
+
 - Pan, D., & Degen, J. (2023). Towards a computational account of projection inferences in clause-embedding predicates. Talk presented at the 45th Annual Conference of the Cognitive Science Society. Sydney, Australia.
 
 - Pan, D., Lu, J., & Degen, J. (2023). Can Manner-of-Speaking Islands be Rescued Through Discourse Foregrounding? Short talk presented at CAMP 2023. Los Angeles, CA.
