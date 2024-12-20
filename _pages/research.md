@@ -12,6 +12,8 @@ Pragmatics, Psycholinguistics, Cognitive Science
 - Pan, D., and Degen, J. (2023). Towards a computational account of projection inferences in polar interrogatives with clause-embedding predicates. *In Proceedings of the 45th Annual Conference of the Cognitive Science Society.* [\[pdf\]](https://escholarship.org/uc/item/13h8r0pv)
 
 # Unpublished Manuscripts
+*: Equal contribution
+
 - Lu, J.\*, Pan, D.\*, & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island.
 
 - Are There Roses in the Maze?: Auditory word recognition in Mandarin-English bilinguals. B.A. Thesis, Vassar College. Advised by Prof. Janet Andrews. Second reader: Prof. John Long.
@@ -19,6 +21,8 @@ Pragmatics, Psycholinguistics, Cognitive Science
 - Projection inferences with clause-embedding predicates in RSA models. M.S. Thesis, Stanford University. Advised by Prof. Judith Degen. Second reader: Prof. Chris Potts. 
 
 # Conference Presentations
+- Pan, D. & Kehler, A. (2024). Can LLMs draw conversational elicitures and put them to use? Talk presented at CAMP 7. La Jolla, CA.
+
 - Pan, D.,  & Degen, J. (2024). A computational model for projection inferences in clause-embedding predicates. Poster presented at CAMP 2024. Stanford, CA.
 
 - Lu, J., Pan, D., and Degen, J. (2024). Evidence for a discourse account of Manner-of-Speaking islands. Talk presented at LSA 2024. New York, NY.
