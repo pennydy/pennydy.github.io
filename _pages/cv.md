@@ -9,4 +9,4 @@ redirect_from:
 
 # CV
 
-<embed src="https://pennydy.github.io/files/cv/Pan_CV.pdf" type="application/pdf" width="720" height="640"> 
+<embed src="https://pennydy.github.io/files/cv/Pan_CV.pdf" type="application/pdf"> 
