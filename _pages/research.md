@@ -9,6 +9,8 @@ author_profile: true
 Pragmatics, Psycholinguistics, Cognitive Science 
 
 # Peer-reviewed Papers
+- Pan, D., & Kehler, A. (to appear). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? *In Proceedings of the 47th Annual Conference of the Cognitive Science Society.* [\[pdf\]](https://pennydy.github.io/files/publications/llm_elicitures_cogsci_final.pdf)
+
 - Pan, D., and Bergen, B. (2025). Are explicit belief representations necessary? A comparison between Large
 Language Models and Bayesian probabilistic models. *In Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the ACL.* [\[pdf\]](https://pennydy.github.io/files/publications/NAACL_llm_belief_final.pdf)
 
@@ -24,9 +26,15 @@ Language Models and Bayesian probabilistic models. *In Proceedings of the 2025 A
 - Projection inferences with clause-embedding predicates in RSA models. M.S. Thesis, Stanford University. Advised by Prof. Judith Degen. Second reader: Prof. Chris Potts. 
 
 # Conference Presentations
-- Pan, D. & Kehler, A. (2024). Can LLMs draw conversational elicitures and put them to use? Talk presented at CAMP 7. La Jolla, CA.
+- Pan, D., & Kehler, A. (2025). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? Poster to be presented at the 47th Annual Conference of the Cognitive Science Society. San Francisco, CA.
 
-- Pan, D.,  & Degen, J. (2024). A computational model for projection inferences in clause-embedding predicates. Poster presented at CAMP 2024. Stanford, CA.
+- Pan, D., & Kehler, A. (2025). Pragmatic Competence in LLMs: The Case of Eliciture. Poster to be presented at SCiL 2025. Eugene, OR.
+
+- Pan, D., & Bergen, B. (2025). Are explicit belief representations necessary? A comparison between Large Language Models and Bayesian probabilistic models. Poster presented at NAACL 2025. Albuquerque, NM.
+
+- Pan, D., & Kehler, A. (2024). Can LLMs draw conversational elicitures and put them to use? Talk presented at CAMP 7. La Jolla, CA.
+
+- Pan, D., & Degen, J. (2024). A computational model for projection inferences in clause-embedding predicates. Poster presented at CAMP 2024. Stanford, CA.
 
 - Lu, J., Pan, D., and Degen, J. (2024). Evidence for a discourse account of Manner-of-Speaking islands. Talk presented at LSA 2024. New York, NY.
 
