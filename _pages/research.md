@@ -20,7 +20,7 @@ Pragmatics, Psycholinguistics, Cognitive Science
 # Unpublished Manuscripts
 *: Equal contribution
 
-- Lu, J.\*, Pan, D.\*, & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island.
+- Lu, J.\*, Pan, D.\*, & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island. [\[pdf\]](https://ling.auf.net/lingbuzz/008431)
 
 - Are There Roses in the Maze?: Auditory word recognition in Mandarin-English bilinguals. B.A. Thesis, Vassar College. Advised by Prof. Janet Andrews. Second reader: Prof. John Long.
 
