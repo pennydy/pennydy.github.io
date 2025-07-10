@@ -9,19 +9,19 @@ author_profile: true
 Pragmatics, Psycholinguistics, Cognitive Science 
 
 # Peer-reviewed Papers
+*: Equal contribution
+
+- Lu, J.\*, Pan, D.\*, & Degen, J. (to appear). Discourse Effects on the Manner-of-Speaking Island. *Language.* [\[link\]](https://ling.auf.net/lingbuzz/008431)
+
 - Pan, D., & Kehler, A. (to appear). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? *In Proceedings of the 47th Annual Conference of the Cognitive Science Society.* [\[pdf\]](https://pennydy.github.io/files/publications/llm_elicitures_cogsci_final.pdf)
 
-- Pan, D., & Kehler, A. (2025). Pragmatic Competence in LLMs: The Case of Eliciture. *Society for Computation in Linguistics.* 8(1): 43. doi: https://doi.org/10.7275/scil.3177 [\[pdf\]](https://openpublishing.library.umass.edu/scil/article/id/3177/)
+- Pan, D., & Kehler, A. (2025). Pragmatic Competence in LLMs: The Case of Eliciture. *Society for Computation in Linguistics.* 8(1): 43. [\[link\]](https://openpublishing.library.umass.edu/scil/article/id/3177/)
 
 - Pan, D., & Bergen, B. (2025). Are explicit belief representations necessary? A comparison between Large Language Models and Bayesian probabilistic models. *In Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the ACL.* [\[pdf\]](https://pennydy.github.io/files/publications/NAACL_llm_belief_final.pdf)
 
 - Pan, D., & Degen, J. (2023). Towards a computational account of projection inferences in polar interrogatives with clause-embedding predicates. *In Proceedings of the 45th Annual Conference of the Cognitive Science Society.* [\[pdf\]](https://escholarship.org/uc/item/13h8r0pv)
 
 # Unpublished Manuscripts
-*: Equal contribution
-
-- Lu, J.\*, Pan, D.\*, & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island. [\[pdf\]](https://ling.auf.net/lingbuzz/008431)
-
 - Are There Roses in the Maze?: Auditory word recognition in Mandarin-English bilinguals. B.A. Thesis, Vassar College. Advised by Prof. Janet Andrews. Second reader: Prof. John Long.
 
 - Projection inferences with clause-embedding predicates in RSA models. M.S. Thesis, Stanford University. Advised by Prof. Judith Degen. Second reader: Prof. Chris Potts. 
