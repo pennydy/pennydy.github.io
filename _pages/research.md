@@ -13,7 +13,7 @@ Pragmatics, Psycholinguistics, Cognitive Science
 
 - Lu, J.\*, Pan, D.\*, & Degen, J. (to appear). Discourse Effects on the Manner-of-Speaking Island. *Language.* [\[link\]](https://ling.auf.net/lingbuzz/008431)
 
-- Pan, D., & Kehler, A. (to appear). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? *In Proceedings of the 47th Annual Conference of the Cognitive Science Society.* [\[pdf\]](https://pennydy.github.io/files/publications/llm_elicitures_cogsci_final.pdf)
+- Pan, D., & Kehler, A. (2025). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? *In Proceedings of the 47th Annual Conference of the Cognitive Science Society.* [\[\link](https://escholarship.org/uc/item/4w22m80s)
 
 - Pan, D., & Kehler, A. (2025). Pragmatic Competence in LLMs: The Case of Eliciture. *Society for Computation in Linguistics.* 8(1): 43. [\[link\]](https://openpublishing.library.umass.edu/scil/article/id/3177/)
 
@@ -27,9 +27,9 @@ Pragmatics, Psycholinguistics, Cognitive Science
 - Projection inferences with clause-embedding predicates in RSA models. M.S. Thesis, Stanford University. Advised by Prof. Judith Degen. Second reader: Prof. Chris Potts. 
 
 # Conference Presentations
-- Pan, D., & Kehler, A. (2025). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? Poster to be presented at the 47th Annual Conference of the Cognitive Science Society. San Francisco, CA.
+- Pan, D., & Kehler, A. (2025). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? Poster presented at the 47th Annual Conference of the Cognitive Science Society. San Francisco, CA.
 
-- Pan, D., & Kehler, A. (2025). Pragmatic Competence in LLMs: The Case of Eliciture. Poster to be presented at SCiL 2025. Eugene, OR.
+- Pan, D., & Kehler, A. (2025). Pragmatic Competence in LLMs: The Case of Eliciture. Poster presented at SCiL 2025. Eugene, OR.
 
 - Pan, D., & Bergen, B. (2025). Are explicit belief representations necessary? A comparison between Large Language Models and Bayesian probabilistic models. Poster presented at NAACL 2025. Albuquerque, NM.
 
