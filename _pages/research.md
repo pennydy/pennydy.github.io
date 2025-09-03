@@ -13,7 +13,7 @@ Pragmatics, Psycholinguistics, Cognitive Science
 
 - Lu, J.\*, Pan, D.\*, & Degen, J. (to appear). Discourse Effects on the Manner-of-Speaking Island. *Language.* [\[link\]](https://ling.auf.net/lingbuzz/008431)
 
-- Pan, D., & Kehler, A. (2025). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? *In Proceedings of the 47th Annual Conference of the Cognitive Science Society.* [\[\link](https://escholarship.org/uc/item/4w22m80s)
+- Pan, D., & Kehler, A. (2025). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? *In Proceedings of the 47th Annual Conference of the Cognitive Science Society.* [\[\link\]](https://escholarship.org/uc/item/4w22m80s)
 
 - Pan, D., & Kehler, A. (2025). Pragmatic Competence in LLMs: The Case of Eliciture. *Society for Computation in Linguistics.* 8(1): 43. [\[link\]](https://openpublishing.library.umass.edu/scil/article/id/3177/)
 
