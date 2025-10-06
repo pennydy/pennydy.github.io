@@ -17,9 +17,9 @@ Pragmatics, Psycholinguistics, Cognitive Science
 
 - Pan, D., & Kehler, A. (2025). Pragmatic Competence in LLMs: The Case of Eliciture. *Society for Computation in Linguistics.* 8(1): 43. [\[link\]](https://openpublishing.library.umass.edu/scil/article/id/3177/)
 
-- Pan, D., & Bergen, B. (2025). Are explicit belief representations necessary? A comparison between Large Language Models and Bayesian probabilistic models. *In Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the ACL.* [\[pdf\]](https://aclanthology.org/2025.naacl-long.572/)
+- Pan, D., & Bergen, B. (2025). Are explicit belief representations necessary? A comparison between Large Language Models and Bayesian probabilistic models. *In Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the ACL.* [\[link\]](https://aclanthology.org/2025.naacl-long.572/)
 
-- Pan, D., & Degen, J. (2023). Towards a computational account of projection inferences in polar interrogatives with clause-embedding predicates. *In Proceedings of the 45th Annual Conference of the Cognitive Science Society.* [\[pdf\]](https://escholarship.org/uc/item/13h8r0pv)
+- Pan, D., & Degen, J. (2023). Towards a computational account of projection inferences in polar interrogatives with clause-embedding predicates. *In Proceedings of the 45th Annual Conference of the Cognitive Science Society.* [\[link\]](https://escholarship.org/uc/item/13h8r0pv)
 
 # Unpublished Manuscripts
 - Are There Roses in the Maze?: Auditory word recognition in Mandarin-English bilinguals. B.A. Thesis, Vassar College. Advised by Prof. Janet Andrews. Second reader: Prof. John Long.
@@ -27,7 +27,7 @@ Pragmatics, Psycholinguistics, Cognitive Science
 - Projection inferences with clause-embedding predicates in RSA models. M.S. Thesis, Stanford University. Advised by Prof. Judith Degen. Second reader: Prof. Chris Potts. 
 
 # Conference Presentations
-- Pan, D., & Kehler, A. (2025). Investigating the use of pragmatic inferences and the predictive power of language models in sentence processing. Poster to be presented at PragLM workshop at COLM 2025. Montreal, Canada. [\[paper\]](https://pennydy.github.io/files/publications/COLM_eliciture_rt_camera_ready.pdf)
+- Pan, D., & Kehler, A. (2025). Investigating the use of pragmatic inferences and the predictive power of language models in sentence processing. Poster to be presented at PragLM workshop at COLM 2025. Montreal, Canada. [\[paper\]](https://pennydy.github.io/files/publications/COLM_eliciture_rt_camera_ready.pdf)[\[poster\]](https://pennydy.github.io/files/publications/COLM_rt_poster.pdf)
 
 - Pan, D., & Kehler, A. (2025). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? Poster presented at the 47th Annual Conference of the Cognitive Science Society. San Francisco, CA. [\[poster\]](https://pennydy.github.io/files/publications/cogsci_llm_elicitures_poster.pdf)
 
