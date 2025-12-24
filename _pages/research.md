@@ -11,7 +11,7 @@ Pragmatics, Psycholinguistics, Cognitive Science
 # Peer-reviewed Papers
 *: Equal contribution
 
-- Lu, J.\*, Pan, D.\*, & Degen, J. (to appear). Discourse Effects on the Manner-of-Speaking Island. *Language.* [\[link\]](https://ling.auf.net/lingbuzz/008431)
+- Lu, J.\*, Pan, D.\*, & Degen, J. (2025). Discourse Effects on the Manner-of-Speaking Island. *Language.101*(4), 627-659. [\[link\]](https://dx.doi.org/10.1353/lan.2025.a978271)
 
 - Pan, D., & Kehler, A. (2025). Do Large Language Models Recognize and Utilize Non-Mandated Pragmatic Enrichments? *In Proceedings of the 47th Annual Conference of the Cognitive Science Society.* [\[link\]](https://escholarship.org/uc/item/4w22m80s)
 
