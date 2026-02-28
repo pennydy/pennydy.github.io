@@ -27,6 +27,8 @@ Pragmatics, Psycholinguistics, Cognitive Science
 - Projection inferences with clause-embedding predicates in RSA models. M.S. Thesis, Stanford University. Advised by Prof. Judith Degen. Second reader: Prof. Chris Potts. 
 
 # Conference Presentations
+- Pan, D., & Dudley, R. (2026). Discourse cues for the acquisition of the Mandarin false-belief verb "*yǐwéi*". Poster presented at Southern California Meeting for Investigations in Developmental Science (SoCal Minds). San Diego, CA. [\[poster\]](https://pennydy.github.io/files/publications/SoCALMinds_poster.pdf)
+
 - Pan, D., & Warstadt, A. (2025). When to drop "that": Revisiting the UID hypothesis on complementizer-dropping in English. Talk presented at California Meeting on Psycholinguistics (CAMP) 8. Davis, CA. [\[slides\]](https://pennydy.github.io/files/publications/CAMP_comp_drop.pdf)
 
 - Pan, D., & Kehler, A. (2025). Investigating the use of pragmatic inferences and the predictive power of language models in sentence processing. Poster presented at PragLM workshop at COLM 2025. Montreal, Canada. [\[paper\]](https://pennydy.github.io/files/publications/COLM_eliciture_rt_camera_ready.pdf)[\[poster\]](https://pennydy.github.io/files/publications/COLM_rt_poster.pdf)
