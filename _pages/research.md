@@ -10,6 +10,7 @@ Pragmatics, Psycholinguistics, Cognitive Science
 
 # Peer-reviewed Papers
 *: Equal contribution
+- Pan, D., & Dudley, R. (to appear). Discourse cues for the acquisition of the Mandarin contrafactive verb "*yǐwéi*". *In Proceedings of the 47th Annual Conference of the Cognitive Science Society.* [\[paper\]](https://pennydy.github.io/files/publications/cogsci_2026.pdf)
 
 - Lu, J.\*, Pan, D.\*, & Degen, J. (2025). Evidence for a discourse account of manner-of-speaking islands. *Language 101*(4), 627-659. [\[link\]](https://dx.doi.org/10.1353/lan.2025.a978271)
 
