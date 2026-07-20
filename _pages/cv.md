@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - https://pennydy.github.io/files/cv/Pan_CV.pdf
 ---
 
 # CV
