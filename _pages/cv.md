@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: /
 title: ""
-permalink: /cv/
+permalink: https://pennydy.github.io/files/cv/Pan_CV.pdf
 author_profile: false
 ---
 
