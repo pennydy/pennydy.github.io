@@ -10,7 +10,7 @@ Pragmatics, Psycholinguistics, Cognitive Science
 
 # Peer-reviewed Papers
 *: Equal contribution
-- Pan, D., & Dudley, R. (to appear). Discourse cues for the acquisition of the Mandarin contrafactive verb *yǐwéi*. *In Proceedings of the 48th Annual Conference of the Cognitive Science Society.* [\[paper\]](https://pennydy.github.io/files/publications/cogsci_2026.pdf)
+- Pan, D., & Dudley, R. (2026). Discourse cues for the acquisition of the Mandarin contrafactive verb *yǐwéi*. *In Proceedings of the 48th Annual Conference of the Cognitive Science Society.* [\[link\]](https://escholarship.org/uc/item/1230v1vd) 
 
 - Lu, J.\*, Pan, D.\*, & Degen, J. (2025). Evidence for a discourse account of manner-of-speaking islands. *Language 101*(4), 627-659. [\[link\]](https://dx.doi.org/10.1353/lan.2025.a978271)
 
@@ -28,6 +28,8 @@ Pragmatics, Psycholinguistics, Cognitive Science
 - Projection inferences with clause-embedding predicates in RSA models. M.S. Thesis, Stanford University. Advised by Prof. Judith Degen. Second reader: Prof. Chris Potts. 
 
 # Conference Presentations
+- Pan, D., & Dudley, R. (2026). Discourse cues for the acquisition of the Mandarin contrafactive verb *yǐwéi*. Poster presented at the 48th Annual Conference of the Cognitive Science Society (CogSci). Rio de Janeiro, Brazil.
+
 - Pan, D., & Dudley, R. (2026). Discourse cues for the acquisition of the Mandarin false-belief verb "*yǐwéi*". Poster presented at Southern California Meeting for Investigations in Developmental Science (SoCal Minds). San Diego, CA. [\[poster\]](https://pennydy.github.io/files/publications/SoCALMinds_poster.pdf)
 
 - Pan, D., & Warstadt, A. (2025). When to drop "that": Revisiting the UID hypothesis on complementizer-dropping in English. Talk presented at California Meeting on Psycholinguistics (CAMP) 8. Davis, CA. [\[slides\]](https://pennydy.github.io/files/publications/CAMP_comp_drop.pdf)
