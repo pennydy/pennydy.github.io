@@ -28,6 +28,9 @@ Pragmatics, Psycholinguistics, Cognitive Science
 - Projection inferences with clause-embedding predicates in RSA models. M.S. Thesis, Stanford University. Advised by Prof. Judith Degen. Second reader: Prof. Chris Potts. 
 
 # Conference Presentations
+- Pan, D., & Dudley, R. (2026). Discourse status as a cue to the acquisition of the Mandarin
+belief verb *yiwei*. Poster to be presented at the 51st Annual Boston University Conference on Language Development (BUCLD 51). Boston, MA. [\[abstract\]](https://pennydy.github.io/files/publications/yiwei_bucld2026.pdf)
+
 - Pan, D., & Dudley, R. (2026). Discourse cues for the acquisition of the Mandarin contrafactive verb *yǐwéi*. Poster presented at the 48th Annual Conference of the Cognitive Science Society (CogSci). Rio de Janeiro, Brazil.
 
 - Pan, D., & Dudley, R. (2026). Discourse cues for the acquisition of the Mandarin false-belief verb "*yǐwéi*". Poster presented at Southern California Meeting for Investigations in Developmental Science (SoCal Minds). San Diego, CA. [\[poster\]](https://pennydy.github.io/files/publications/SoCALMinds_poster.pdf)
